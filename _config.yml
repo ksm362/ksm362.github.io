@@ -1,0 +1,29 @@
+# Dependencies
+markdown:         redcarpet
+gems: [jekyll-paginate]
+#highlighter:      pygments
+future: true
+
+# Permalinks
+permalink:        pretty
+#permalink: /:categories/
+
+# Setup
+title:            Kyle Steven Martin
+tagline:          'KSM homepage'
+description:      'A biomedical engineer, teacher, and life-long learner' 
+url:              http://hyde.getpoole.com
+baseurl:          /
+
+author:
+  name:           'Mark Otto'
+  url:            https://twitter.com/mdo
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+excerpt_separator:    <!--more-->
+
+github:
+  repo:           https://github.com/poole/hyde

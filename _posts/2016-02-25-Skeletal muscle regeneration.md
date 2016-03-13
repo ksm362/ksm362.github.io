@@ -1,0 +1,40 @@
+---
+layout: post
+title: Skeletal Muscle Regeneration
+subtype: Research
+---
+
+### Overview
+
+Skeletal muscles rapidly adapt and remodel following an injury. 
+Numerous cell types and cellular events are coordinated during muscle regeneration, often leading to recovery that 
+is indistinguishable from the native uninjured tissue. 
+I am interested in exploring how the cellular events interact to progress muscle regeneration.
+
+
+### Skeletal Muscle Injury and Regeneration 
+In addition to exploring injury and inflammation computationally, I was able to follow muscle recovery in a rat TA laceration model.
+We tracked satellite stem cell (SSC) dynamics in the agent-based model by exploring the signalling molecules that influence activation, proliferation, migration, and differentiation.
+Then the agent-based model was used to predict the best timing of pharmacological manipulation of macrophages with respect to their influence on SSCs.
+When I performed macrophage manipulation experiments in the TA laceration model (via direct injection of M-CSF), we found earlier and elevated markers of regeneration (below).
+<p><img src="{{ site.baseurl }}images/TA_SSCandcentralnuclei.png"></p>
+
+<br>
+### Nerve and Vascular Remodeling
+<p style="float: right;"><img src="{{ site.baseurl }}images/FDB_capillary_pericyte_mac2.png" width="180px" ></p>
+
+Muscle fibers are not the only structures damaged in an injury. 
+During regeneration, skeletal muscle nerves and blood vessels undergo repair and remodeling.
+While the extend of nerve and vascular regeneration is dependent on the type of injury (as is the case with the muscle fibers), 
+blood vessels and nerves are vital for functional muscle recovery.
+In addition to investigating skeletal muscle regeneration, my current work investigates vascular and nerve regeneration following injury.
+This is of particular importance following volumetric muscle loss, where the entire muscle tissue needs to regenerate.
+On the right is a diaphragm capillary (blue) wrapped by both a pericyte (red) and macrophage (green). 
+During vascular remodeling, both macrophages and pericytes play important roles.
+In the image of a tibialis anterior cross-section (below), a nerve bundle (green) can be seen surrounded by muscle fibers (laminin in red).
+
+<img  src="{{ site.baseurl }}images/TA_nervebundle_20_3.png" width="510px" height="203px"/>
+
+
+<div style="clear:right"> </dev>
+

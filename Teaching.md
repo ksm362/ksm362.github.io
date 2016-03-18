@@ -2,11 +2,46 @@
 layout: page
 title: Teaching
 ---
+I love teaching.
+This includes lecturing an undergraduate class, mentoring a student, or teaching a local dance class.
+While at the University of Virginia, I have taken many opportunities to improve my teaching.
+My favorite experience was participating in an university wide teaching program called [Tomorrow's Professors Today] (http://cte.virginia.edu/programs/tomorrows-professor-today/).
+This program gave me access to seminars on teaching and learning as well as introduced me to many educators both at UVa and abroad.
+I was also able to present a paper at the  [American Society of Engineering Education](https://www.asee.org/) 2014 annual meeting.
 
-<p class="message">
-  a page testing if I can make the projects RAIN
-</p>
+### Classroom Teaching Experience
+
+In addition to being a guest lecturer in numerous classes (including human physiology, systems bioengineering, computational principles of biomechanical engineering and motion biomechanics),
+I was awarded a scholarship to co-teach a class with my mentor (Dr. Shayn Peirce-Cottler) during my 4rd year of graduate school.
+Through this scholarship, I was given the opportunity to develop the curriculum and syllabus, teach half the lectures, and create the exams for our sophomore level introduction to biomedical engineering class.
+This was a truly unique and transformative experience for me. 
+It gave me first hand experience with every fascet of teaching while having an experienced mentor to help guide me through it.
+
+### Outreach
+
+<p style="float: right;"><img class="margined" src="{{ site.baseurl }}images/Kyle_teaching.jpg" width="310px" ></p>
+In addition to teaching undergraduate and graduate classes, I have also have the privilage to participate in many outreach programs.
+Every year, the BME department at UVa gives tours to local students (3rd - 6th grade). 
+Each participating lab teaching the students about their research and what college is like. 
+In the picture to the right, I showed the students how cell culturing works.
+We also isolated our cheek cells and looked at them under a miscroscope.
 
 
+I have also volunteered as a mentor for kids K-12.
+This was a weekly commitment, where students could ask for homework help on any subject they were struggling with.
+I had a lot of fun teaching these kids about science, and I got excited when they asked about my career and how college works.
 
-## Projects
+### Student Mentoring
+
+I have been fortunate to have worked with numerous undergraduates over the years. 
+Below is a list of the students and the projects I assisted them with.
+
+- Catherine Henry - Non-uniform sarcomere lengths in the mouse diaphragm
+- Chris Kegelman and Ruba Shalhoub - *In vivo* sarcomere imaging
+- Bridget Ward - Microscale muscle analysis of healthy and dystrophic diaphragm
+- Brennan Torstrick - Induction of murine spinotrapezius ischemia via cauterization
+- Julie Kokinos - Diaphragm Modeling in Duchenne Muscular Dystrophy
+- Ross Gordon - Immunogenic response to PCL-PEO nanoparticles
+- Grace Stuntz - Creation of a novel aortic flow system
+- Scott Schubert - Effects of combination drug treatment on smooth muscle cells
+- Caryn Just - Evaluation of thin films vs electrospun mats for intraluminal use

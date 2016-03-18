@@ -23,6 +23,9 @@ I also simulated fibroblasts and their secretions, pointing to a potential sourc
 ### Muscle Injury and Inflammation
 <iframe width="480" align="middle" height="360" src="https://www.youtube.com/embed/sJIq7gGsWjE?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1" frameborder="0"></iframe>
 <br>
+
+<p style="float: right;"><img class="margined" width="370px" src="{{ site.baseurl }}images/ABM_inflammation_macKO.png"></p> 
+
 Muscle injury can be caused by a plethora of situations, from contusions and lacerations to hypoxia and toxins. 
 In all of these cases, the coordination of numerous cell types (muscle fibers, satellite stem cells, neutrophils, macrophages, fibroblasts, etc) both temporarily and spatially is crucial for regeneration.
 In order to study these cellular interactions, I expanded my agent-based model to include inflammation and recovery following injury. 
@@ -30,4 +33,4 @@ In the video of my muscle injury model (above), you can see the onset of an inju
 I used a genetic algorithm to tune the behaviors of neutrophils, M1 and M2 macrophages during muscle injury to emulate *in vivo* data.
 Once tuned, simulations of macrophage knockdown following injury (below) showed impaired muscle recovery and prolonged necrotic tissue, consistent with numerous published studies.
 
-<p><img width="450px" src="{{ site.baseurl }}images/ABM_inflammation_macKO.png"></p> 
+<div style="clear:right"> </dev>

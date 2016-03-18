@@ -249,3 +249,12 @@ a.sidebar-nav-item:focus {
 .theme-base-0f .related-posts li a:hover {
   color: #8f5536;
 }
+
+img.margined {
+margin: 6px;
+}
+
+
+img.padded {
+padding: 6px;
+}

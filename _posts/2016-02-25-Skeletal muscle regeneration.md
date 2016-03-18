@@ -21,7 +21,7 @@ When I performed macrophage manipulation experiments in the TA laceration model 
 
 <br>
 ### Nerve and Vascular Remodeling
-<p style="float: right;"><img src="{{ site.baseurl }}images/FDB_capillary_pericyte_mac2.png" width="180px" ></p>
+<p style="float: right;"><img class="margined" src="{{ site.baseurl }}images/FDB_capillary_pericyte_mac2.png" width="180px" ></p>
 
 Muscle fibers are not the only structures damaged in an injury. 
 During regeneration, skeletal muscle nerves and blood vessels undergo repair and remodeling.
@@ -33,7 +33,7 @@ On the right is a diaphragm capillary (blue) wrapped by both a pericyte (red) an
 During vascular remodeling, both macrophages and pericytes play important roles.
 In the image of a tibialis anterior cross-section (below), a nerve bundle (green) can be seen surrounded by muscle fibers (laminin in red).
 
-<img  src="{{ site.baseurl }}images/TA_nervebundle_20_3.png" width="510px" height="203px"/>
+<img  class="margined" src="{{ site.baseurl }}images/TA_nervebundle_20_3.png" width="510px" height="208px"/>
 
 
 <div style="clear:right"> </dev>

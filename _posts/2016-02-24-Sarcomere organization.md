@@ -24,9 +24,10 @@ We were also able to find sarcomere differences between healthy and *mdx* mice, 
 <p style="float: left;"><img class="margined" src="{{ site.baseurl }}images/diaphragm_3.png" width="400px"></p> 
 Catherine has taken this study even further by including 1) multiple age groups and 2) expanding the muscle parameters measured to investigate fiber branching, amount of interstitial space,
 muscle fiber cross-sectional area, and macrophage counts. We are looking to submit a manuscript on our work in the spring of 2016.
+
 <div style="clear:left"> </dev>
 
-### *In vivo* sarcomere assessment
+<h3> <em>In vivo</em> sarcomere assessment </h3>
 
 <p style="float: right;"><img class="margined" 	src="{{ site.baseurl }}images/Kyle_zebrascope.jpg" width="290px"></p> 
 Recently, Dr. Silvia Blemker purchased a Zebrascope, a minimally invasive optical endoscope which images skeletal muscle sarcomeres through second-harmonic generation.

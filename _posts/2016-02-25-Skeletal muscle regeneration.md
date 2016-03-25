@@ -19,8 +19,9 @@ Then the agent-based model was used to predict the best timing of pharmacologica
 When I performed macrophage manipulation experiments in the TA laceration model (via direct injection of M-CSF), we found earlier and elevated markers of regeneration (below).
 <p><img src="{{ site.baseurl }}images/TA_SSCandcentralnuclei.png"></p>
 
-<br>
+
 ### Nerve and Vascular Remodeling
+
 <p style="float: right;"><img class="margined" src="{{ site.baseurl }}images/FDB_capillary_pericyte_mac2.png" width="180px" ></p>
 
 Muscle fibers are not the only structures damaged in an injury. 

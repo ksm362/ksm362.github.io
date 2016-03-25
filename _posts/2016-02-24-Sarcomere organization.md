@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sarcomeres
+title: Sarcomere Organization
 subtype: Research
 ---
 
@@ -12,6 +12,7 @@ Additionally, muscle damage or diseases can cause a disruption in sarcomere orga
 I have worked with numerous talented undergraduates on imaging and analyzing sarcomeres from various muscles and animals.
 These efforts have focused largely on confocal microscopy and endoscopy.
 <p><img src="{{ site.baseurl }}images/single_fiber.png" width="750px"></p> 
+
 ### Diaphragm sarcomere organization
 
 My largest study on sarcomere organization has been done in collaboration with Bridget Ward and Catherine Henry, undergraduate students at the University of Virginia.
@@ -26,6 +27,7 @@ muscle fiber cross-sectional area, and macrophage counts. We are looking to subm
 <div style="clear:left"> </dev>
 
 ### *In vivo* sarcomere assessment
+
 <p style="float: right;"><img class="margined" 	src="{{ site.baseurl }}images/Kyle_zebrascope.jpg" width="290px"></p> 
 Recently, Dr. Silvia Blemker purchased a Zebrascope, a minimally invasive optical endoscope which images skeletal muscle sarcomeres through second-harmonic generation.
 A small needle probe is inserted into the muscle and a small box attaches to the probe (see right) to control the excitation laser and subsequent light emissions.

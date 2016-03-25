@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sarcomeres
+title: Sarcomere Organization
 subtype: Research
 ---
 

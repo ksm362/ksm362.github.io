@@ -1,7 +1,5 @@
 # Dependencies
-<<<<<<< HEAD
-markdown: redcarpet
-=======
+markdown:         redcarpet
 gems: [jekyll-paginate]
 #highlighter:      pygments
 future: true

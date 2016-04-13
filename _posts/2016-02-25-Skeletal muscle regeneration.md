@@ -30,9 +30,9 @@ While the extend of nerve and vascular regeneration is dependent on the type of 
 blood vessels and nerves are vital for functional muscle recovery.
 In addition to investigating skeletal muscle regeneration, my current work investigates vascular and nerve regeneration following injury.
 This is of particular importance following volumetric muscle loss, where the entire muscle tissue needs to regenerate.
-On the right is a diaphragm capillary (blue) wrapped by both a pericyte (red) and macrophage (green). 
-During vascular remodeling, both macrophages and pericytes play important roles.
-In the image of a tibialis anterior cross-section (below), a nerve bundle (green) can be seen surrounded by muscle fibers (laminin in red).
+Dr. George Christ has developed tissue engineered constructs to be placed into these muscle volume defects.
+His lab utilizes porcine bladder scaffolds seeded with muscle progenitor cells to enhance the functional recovery following injury.
+One of my current projects is to investigate the vascular and neuronal regeneration when using these bioengineered scaffolds to treat a muscle injury.  
 
 <img  class="margined" src="{{ site.baseurl }}images/TA_nervebundle_20_3.png" width="510px" height="208px"/>
 

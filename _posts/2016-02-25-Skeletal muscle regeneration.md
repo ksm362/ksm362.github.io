@@ -22,17 +22,16 @@ When I performed macrophage manipulation experiments in the TA laceration model 
 
 ### Nerve and Vascular Remodeling
 
-<p style="float: right;"><img class="margined" src="{{ site.baseurl }}images/FDB_capillary_pericyte_mac2.png" width="180px" height="654px" ></p>
+<p style="float: right;"><img class="margined" src="{{ site.baseurl }}images/FDB_capillary_pericyte_mac2.png" width="180px" height="627px" ></p>
 
-Muscle fibers are not the only structures damaged in an injury. 
-During regeneration, skeletal muscle nerves and blood vessels undergo repair and remodeling.
-While the extend of nerve and vascular regeneration is dependent on the type of injury (as is the case with the muscle fibers), 
+During muscle regeneration, nerves and blood vessels undergo repair and remodeling.
+While the extend of regeneration is dependent on the type of injury (as is the case with the muscle fibers), 
 blood vessels and nerves are vital for functional muscle recovery.
-In addition to investigating skeletal muscle regeneration, my current work investigates vascular and nerve regeneration following injury.
-This is of particular importance following volumetric muscle loss, where the entire muscle tissue needs to regenerate.
-Dr. George Christ has developed tissue engineered constructs to be placed into these muscle volume defects.
-His lab utilizes porcine bladder scaffolds seeded with muscle progenitor cells to enhance the functional recovery following injury.
-One of my current projects is to investigate the vascular and neuronal regeneration when using these bioengineered scaffolds to treat a muscle injury.  
+In addition to investigating skeletal muscle regeneration, my current work explores vascular and nerve regeneration.
+Dr. George Christ has developed tissue engineered constructs to repair muscle defects following volumetric muscle loss.
+His lab utilizes porcine bladder scaffolds seeded with muscle progenitor cells to enhance recovery following these injury.
+One of my projects is to investigate the vascular and neuronal regeneration when using these bioengineered scaffolds to treat a muscle injury.
+To the right is a capillary with a pericyte and macrophage associated with it, and below is a nerve bundle surrounded by muscle fibers.
 
 <img  class="margined" src="{{ site.baseurl }}images/TA_nervebundle_20_3.png" width="510px" height="208px"/>
 

@@ -9,6 +9,7 @@ title: Publications & CV
 
 ### Publications
 
+- **KS Martin**, CD Kegelman, KM Virgilio, JA Passipieri, GJ Christ, SS Blemker, SM Peirce. In silico and in vivo experiments reveal M-CSF injections accelerate regeneration following muscle laceration. Annals of Biomedical Engineering, accepted July 2016
 - **KS Martin**, KM Virgilio, SM Peirce, SS Blemker. Computational modeling of muscle regeneration and adaptation to advance muscle tissue regeneration strategies. Cells, Tissues, Organs, accepted December 2015
 - **KS Martin**, SS Blemker, SM Peirce. [Agent-based computational model of skeletal muscle investigates muscle-specific responses to disuse-induced muscle atrophy.](http://jap.physiology.org/content/118/10/1299.abstract) Journal of Applied Physiology, May 2015
 	- Featured in the editorial: [An, Gary. Journal of Applied Physiology, May 2015](http://jap.physiology.org/content/118/10/1191)

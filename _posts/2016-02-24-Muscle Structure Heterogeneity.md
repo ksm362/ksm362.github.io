@@ -27,7 +27,7 @@ Catherine has taken this study even further by including 1) multiple age groups 
 Together, we have found regions of the diaphragm differ with respect to common *mdx* disease progression markers, like centrally located nuclei or macrophage counts.
 We are going to be submitting our work the Journal of Applied Physiology in 2016.
 
-<div style="clear:left"> </dev>
+<div style="clear:left">
 
 <h3> <em>In vivo</em> sarcomere assessment </h3>
 
@@ -38,4 +38,4 @@ In collaboration with Katie Pelland, a graduate student, as well as undergraduat
 we have repeatedly measured sarcomere length in rat tibialis anterior muscles over a 16 day period.
 This initial experiment was used to both test the repeatability of sarcomere measurements and to confirm that repeated zebrascope use did not damage the muscle.
 We also used confocal microscopy, as was done in the diaphragm study above, to compare endoscope values of sacomere length with confocal microscopy.
-<div style="clear:right"> </dev>
+<div style="clear:right">

@@ -36,5 +36,5 @@ To the right is a capillary with a pericyte and macrophage associated with it, a
 <img  class="margined" src="{{ site.baseurl }}images/TA_nervebundle_20_3.png" width="510px" height="208px"/>
 
 
-<div style="clear:right"> </dev>
+<div style="clear:right">
 

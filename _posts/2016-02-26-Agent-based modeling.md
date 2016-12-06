@@ -36,4 +36,4 @@ In the video of my muscle injury model (above), you can see the onset of an inju
 I used a genetic algorithm to tune the behaviors of neutrophils, M1 and M2 macrophages during muscle injury to emulate *in vivo* data.
 Once tuned, simulations of macrophage knockdown following injury (below) showed impaired muscle recovery and prolonged necrotic tissue, consistent with numerous published studies.
 
-<div style="clear:right"> </dev>
+<div style="clear:right">

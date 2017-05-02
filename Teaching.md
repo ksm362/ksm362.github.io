@@ -27,15 +27,18 @@ In the picture to the right, I showed the students how cell culturing works.
 We also isolated our cheek cells and looked at them under a miscroscope.
 
 
-I have also volunteered as a mentor for kids K-12.
+From 2014 to 2015 I volunteered as a mentor for kids K-12.
 This was a weekly commitment, where students could ask for homework help on any subject they were struggling with.
-I had a lot of fun teaching these kids about science, and I got excited when they asked about my career and how college works.
+I had a lot of fun teaching these kids about science, and I was eager to share stories from my career and how college works.
 
 ### Student Mentoring
 
 I have been fortunate to have worked with numerous undergraduates over the years. 
 Below is a list of the students and the projects I assisted them with.
 
+
+- Katherine Crump - Computational modeling of muscle adaptation during exercise
+- Madeleine McDonald - Evaluating prolonged cyclic stretch on tissue engineered skeletal muscle constructs
 - Catherine Henry - Non-uniform sarcomere lengths in the mouse diaphragm
 - Chris Kegelman and Ruba Shalhoub - *In vivo* sarcomere imaging
 - Bridget Ward - Microscale muscle analysis of healthy and dystrophic diaphragm

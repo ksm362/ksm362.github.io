@@ -12,33 +12,34 @@ I was also able to present a paper at the  [American Society of Engineering Educ
 ### Classroom Teaching Experience
 
 In addition to being a guest lecturer in numerous classes (including human physiology, systems bioengineering, computational principles of biomechanical engineering and motion biomechanics),
-I was awarded a scholarship to co-teach a class with my mentor (Dr. Shayn Peirce-Cottler) during my 4rd year of graduate school.
-Through this scholarship, I was given the opportunity to develop the curriculum and syllabus, teach half the lectures, and create the exams for our sophomore level introduction to biomedical engineering class.
-This was a truly unique and transformative experience for me. 
-It gave me first hand experience with every fascet of teaching while having an experienced mentor to help guide me through it.
+I was awarded a scholarship to co-teach a class with my mentor (Dr. Shayn Peirce-Cottler) during my 4th year of graduate school.
+Through this scholarship, I was given the opportunity to develop the syllabus, teach half the lectures, and create the exams for our sophomore level introduction to biomedical engineering.
+This was a transformative experience for me. 
+I received first hand experience with every fascet of teaching while having an experienced mentor to lean me.
 
 ### Outreach
 
 <p style="float: right;"><img class="margined" src="{{ site.baseurl }}images/Kyle_teaching.jpg" width="310px" ></p>
 In addition to teaching undergraduate and graduate classes, I have also have the privilage to participate in many outreach programs.
 Every year, the BME department at UVa gives tours to local students (3rd - 6th grade). 
-Each participating lab teaching the students about their research and what college is like. 
+Each participating lab teaches the students about their research.
+We also feed questions about college. 
 In the picture to the right, I showed the students how cell culturing works.
 We also isolated our cheek cells and looked at them under a miscroscope.
 
 
 From 2014 to 2015 I volunteered as a mentor for kids K-12.
 This was a weekly commitment, where students could ask for homework help on any subject they were struggling with.
-I had a lot of fun teaching these kids about science, and I was eager to share stories from my career and how college works.
+I enjoyed teaching these kids about science, and I was eager to share stories from my career life choices.
 
 ### Student Mentoring
 
-I have been fortunate to have worked with numerous undergraduates over the years. 
+I have mentored numerous outstanding undergraduates over the years. 
 Below is a list of the students and the projects I assisted them with.
 
 
-- Katherine Crump - Computational modeling of muscle adaptation during exercise
-- Madeleine McDonald - Evaluating prolonged cyclic stretch on tissue engineered skeletal muscle constructs
+- Katherine Crump - Modelling muscle atrophy during space flight
+- Madeleine McDonald - Reproducibility in creating skeletal muscle constructs
 - Catherine Henry - Non-uniform sarcomere lengths in the mouse diaphragm
 - Chris Kegelman and Ruba Shalhoub - *In vivo* sarcomere imaging
 - Bridget Ward - Microscale muscle analysis of healthy and dystrophic diaphragm

@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 plugins: [jekyll-paginate]
-#highlighter:      pygments
+highlighter:      rouge
 future: true
 
 # Permalinks

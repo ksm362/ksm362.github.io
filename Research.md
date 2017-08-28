@@ -2,7 +2,7 @@
 layout: page
 title: Research
 ---
-<img src="{{ site.baseurl }}images/ABM_atrophy.png">
+<img src="/images/ABM_atrophy.png">
 
 Skeletal muscles are dynamic organs, constantly adapting in response to stimuli.
 The same muscle could regenerate following ischemia or atrophy during chachexia. 

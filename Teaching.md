@@ -19,7 +19,7 @@ I received first hand experience with every fascet of teaching while having an e
 
 ### Outreach
 
-<p style="float: right;"><img class="margined" src="{{ site.baseurl }}images/Kyle_teaching.jpg" width="310px" ></p>
+<p style="float: right;"><img class="margined" src="/images/Kyle_teaching.jpg" width="310px" ></p>
 In addition to teaching undergraduate and graduate classes, I have also have the privilage to participate in many outreach programs.
 Every year, the BME department at UVa gives tours to local students (3rd - 6th grade). 
 Each participating lab teaches the students about their research.

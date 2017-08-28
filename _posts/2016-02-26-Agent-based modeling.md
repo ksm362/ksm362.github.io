@@ -19,7 +19,7 @@ muscle specific differences in susceptibility to disuse. The model, which is sho
 After parameterizing the model to rat studies, I used this model to simulate and compare atrophy rates across limb muscles in the rat (such as the forelimb and hindlimb muscles in the graph below). 
 I also simulated fibroblasts and their secretions, pointing to a potential source of TNF-alpha that can enhance the rate of atrophy during disuse.
 
-<p><img src="{{ site.baseurl }}images/ABM_atrophy_flexors.png"></p> 
+<p><img src="/images/ABM_atrophy_flexors.png"></p> 
 
 
 ### Muscle Injury and Inflammation
@@ -27,7 +27,7 @@ I also simulated fibroblasts and their secretions, pointing to a potential sourc
 <iframe width="480" align="middle" height="360" src="https://www.youtube.com/embed/sJIq7gGsWjE?rel=0&amp;controls=0&amp;showinfo=0&autoplay=1" frameborder="0"></iframe>
 <br>
 
-<p style="float: right;"><img class="margined" width="370px" src="{{ site.baseurl }}images/ABM_inflammation_macKO.png"></p> 
+<p style="float: right;"><img class="margined" width="370px" src="/images/ABM_inflammation_macKO.png"></p> 
 
 Muscle injury can be caused by a plethora of situations, from contusions and lacerations to hypoxia and toxins. 
 In all of these cases, the coordination of numerous cell types (muscle fibers, satellite stem cells, neutrophils, macrophages, fibroblasts, etc) both temporarily and spatially is crucial for regeneration.

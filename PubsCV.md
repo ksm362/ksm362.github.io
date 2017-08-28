@@ -4,7 +4,7 @@ title: Publications & CV
 ---
 
 <p class="message">
-  Here is my full <a href="{{ site.baseurl }}pdfs/KSM_CV.pdf">Curriculum Vitae</a>
+  Here is my full <a href="/pdfs/KSM_CV.pdf">Curriculum Vitae</a>
 </p>
 
 ### Publications

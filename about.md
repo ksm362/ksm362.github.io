@@ -4,9 +4,9 @@ title:
 subtype: About
 ---
 
-<p><img src="{{ site.baseurl }}images/Kyle_mountains.png"></p> 
+<p><img src="/images/Kyle_mountains.png"></p> 
 
-<p style="float: right;"><img class="margined" src="{{ site.baseurl }}images/Kyle_dancing3.jpg" width="310px"></p> 
+<p style="float: right;"><img class="margined" src="/images/Kyle_dancing3.jpg" width="310px"></p> 
 
 Outside of my scientific interests, I pursue numerous hobbies.
 I enjoy playing board games, cooking, gardening, hiking and many other outdoor activities.

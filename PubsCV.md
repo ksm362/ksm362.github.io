@@ -4,7 +4,9 @@ title: Publications & CV
 ---
 
 <p class="message">
-  Here is my full <a href="/pdfs/KSM_CV.pdf">Curriculum Vitae</a>
+  <a href="/pdfs/KSM_CV.pdf">Curriculum Vitae</a>
+  [Orcid ID] (http://orcid.org/0000-0002-6161-9611)
+  [Google Scholar] (https://scholar.google.se/citations?user=4rJ1zHgAAAAJ&hl=en&oi=sra)
 </p>
 
 ### Publications
@@ -21,6 +23,3 @@ title: Publications & CV
 - AO Awojoodu, ME Ogle, LS Sefcik, DT Bowers, **KS Martin**, KL Brayman, KR Lynch, SM Peirce, E Botchwey. [Sphingosine 1-phosphate receptor 3 regulates recruitment of anti-inflammatory monocytes to microvessels during implant arteriogenesis.](http://www.pnas.org/content/110/34/13785.full?sid=d5bcd80b-44ca-4c12-a599-57e9ac4b6d4c) Proceedings of the National Academy of Sciences. August 2014
 -  *AM Guendel*, ***KS Martin***, J Cutts, PL Foley, AM Bailey, F Mac Gabhann, TR Cardinal, SM Peirce. [Murine Spinotrapezius Model to Assess the Impact of Arteriolar Ligation on Microvascular Function and Remodeling.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3622090/) Journal of Visualized Experiments. March 2013
 - M Zhang, M Huang, C Le, PB Zanzonico, F Claus, KS Kolbert, **KS Martin**, CC Ling, JA Koutcher, JL Humm.  [Accuracy and reproducibility of tumor positioning during prolonged and multimodality animal imaging studies.](http://iopscience.iop.org/article/10.1088/0031-9155/53/20/021/meta)	 Physics in Medicine and Biology. October 2008
-
-## [Orcid ID] (http://orcid.org/0000-0002-6161-9611)
-## [Google Scholar] (https://scholar.google.se/citations?user=4rJ1zHgAAAAJ&hl=en&oi=sra)

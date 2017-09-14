@@ -23,6 +23,6 @@ title: Publications & CV
 - M Zhang, M Huang, C Le, PB Zanzonico, F Claus, KS Kolbert, **KS Martin**, CC Ling, JA Koutcher, JL Humm.  [Accuracy and reproducibility of tumor positioning during prolonged and multimodality animal imaging studies.](http://iopscience.iop.org/article/10.1088/0031-9155/53/20/021/meta)	 Physics in Medicine and Biology. October 2008
 
 <p class="message">
-#### [Orcid ID](http://orcid.org/0000-0002-6161-9611)
-#### [Google Scholar](https://scholar.google.se/citations?user=4rJ1zHgAAAAJ&hl=en&oi=sra)
+[Orcid ID](http://orcid.org/0000-0002-6161-9611)
+[Google Scholar](https://scholar.google.se/citations?user=4rJ1zHgAAAAJ&hl=en&oi=sra)
 </p>

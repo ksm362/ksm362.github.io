@@ -9,7 +9,7 @@ title: Publications & CV
 
 ### Publications
 
-- JA Call, J Donet, **KS Martin**, AK Sharma, X Chen, J Zhang, J Cai, CA Galarreta, M Okutsu, Z Du, VA Lira, M Zhang, B Mehrad, BH Annex, AL Klibanov, RP Bowler, VE Laubach, SM Peirce, Z Yan. [Muscle-derived extracellular superoxide dismutase inhibits endothelial activation and protects against multiple organ dysfunction syndrome in mice.] (http://www.sciencedirect.com/science/article/pii/S0891584917307827) Free Radic Biol Med, October 2017
+- JA Call, J Donet, **KS Martin**, AK Sharma, X Chen, J Zhang, J Cai, CA Galarreta, M Okutsu, Z Du, VA Lira, M Zhang, B Mehrad, BH Annex, AL Klibanov, RP Bowler, VE Laubach, SM Peirce, Z Yan. [Muscle-derived extracellular superoxide dismutase inhibits endothelial activation and protects against multiple organ dysfunction syndrome in mice.](http://www.sciencedirect.com/science/article/pii/S0891584917307827) Free Radic Biol Med, October 2017
 - CC Henry, **KS Martin**, BB Ward, GG Handsfield SM Peirce, SS Blemker. [Spatial and age-related changes in the microstructure of dystrophic and healthy diaphragms.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183853) PloS one, September 2017
 - **KS Martin**, CD Kegelman, KM Virgilio, JA Passipieri, GJ Christ, SS Blemker, SM Peirce. [In silico and in vivo experiments reveal M-CSF injections accelerate regeneration following muscle laceration.](https://www.ncbi.nlm.nih.gov/pubmed/27718091) Annals of Biomedical Engineering, March 2017
 - **KS Martin**, KM Virgilio, SM Peirce, SS Blemker. [Computational modeling of muscle regeneration and adaptation to advance muscle tissue regeneration strategies.](https://www.karger.com/Article/Abstract/443635) Cells, Tissues, Organs, November 2016

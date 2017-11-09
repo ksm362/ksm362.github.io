@@ -4,18 +4,18 @@ title: Teaching
 ---
 I love teaching.
 This includes lecturing an undergraduate class, mentoring a student, or teaching a local dance class.
-While at the University of Virginia, I have taken many opportunities to improve my teaching.
+While I was at the University of Virginia, I took many opportunities to improve my teaching.
 My favorite experience was participating in an university wide teaching program called [Tomorrow's Professors Today](http://cte.virginia.edu/programs/tomorrows-professor-today/).
-This program gave me access to seminars on teaching and learning as well as introduced me to many educators both at UVa and abroad.
+This program offered seminars on pedagogy and learning styles as well as introduced me to numerous educators at UVa and abroad.
 I was also able to present a poster at the  [American Society of Engineering Education](https://www.asee.org/) 2014 annual meeting.
 
 ### Classroom Teaching Experience
 
 In addition to being a guest lecturer in numerous classes (including human physiology, systems bioengineering, computational principles of biomechanical engineering and motion biomechanics),
-I was awarded a scholarship to co-teach a class with my mentor (Dr. Shayn Peirce-Cottler) during my 4th year of graduate school.
+I was awarded a scholarship to co-teach a class with Dr. Shayn Peirce-Cottler during my 4th year of graduate school.
 Through this scholarship, I was given the opportunity to develop the syllabus, teach half the lectures, and create the exams for our sophomore level introduction to biomedical engineering.
 This was a transformative experience for me. 
-I received first hand experience with every fascet of teaching while having an experienced mentor to lean me.
+I received first hand experience with every fascet of teaching while having an experienced mentor to lean on.
 
 ### Outreach
 
@@ -23,14 +23,14 @@ I received first hand experience with every fascet of teaching while having an e
 In addition to teaching undergraduate and graduate classes, I have also have the privilage to participate in many outreach programs.
 Every year, the BME department at UVa gives tours to local students (3rd - 6th grade). 
 Each participating lab teaches the students about their research.
-We also feed questions about college. 
+We also answer questions about college. 
 In the picture to the right, I showed the students how cell culturing works.
 We also isolated our cheek cells and looked at them under a miscroscope.
 
 
-From 2014 to 2015 I volunteered as a mentor for kids K-12.
+From 2014 to 2015 I volunteered as a mentor for kids K through 12.
 This was a weekly commitment, where students could ask for homework help on any subject they were struggling with.
-I enjoyed teaching these kids about science, and I was eager to share stories from my career life choices.
+I enjoyed teaching these kids about science, and I was eager to share stories about my career/life choices.
 
 ### Student Mentoring
 

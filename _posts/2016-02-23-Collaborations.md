@@ -4,6 +4,19 @@ title: Collaborations
 subtype: Research
 ---
 
+### Muscle damage in anole lizards
+
+This is a serendipitous collaboration, but one I really enjoy being a part of. 
+I went to a lecture by [Dr. Michele Johnson](https://inside.trinity.edu/directory/mjohnso9) where she was studying relationships between skeletal muscle morphology and function/frequency of use.
+One of the challenges in behavioral ecology is an accurate quantification of relatively rare or cryptic behaviors such as copulation.
+Her reasoning was that behaviors which activate skeletal muscles should lead to adaption such as hypertrophy and fiber type switching.
+In particular, Michele was interested in relating observed copulation rates to adaptations in the retractor penis magnus.
+During her presentation I noticed large amounts of muscle damage (primarily invaded muscle fibers) and asked if she had quantified it.
+This lead to a collaboration between her, myself, and [Dr. Ariel Kahl](http://people.virginia.edu/~afk7df/Home.html) (my amazing wife).
+We found that RPM damage was significantly correlated to observed copulation rate.
+This work is being presented at the Society for Integrative and Comparative Biology annual meeting in 2018, with our sights set on a publication soon after. 
+
+
 ### Immune modulation and muscle derived EcSOD
 
 I have had the fortunate opportunity to work with [Dr. Zhen Yan](http://faculty.virginia.edu/yanlab/), and his former post-doc [Dr. Jarrod Call](https://coe.uga.edu/directory/profiles/call), on an enhanced EcSOD (extracellular superoxide dismutase) mice model.

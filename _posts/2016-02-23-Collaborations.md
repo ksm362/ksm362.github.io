@@ -12,7 +12,7 @@ One of the challenges in behavioral ecology is an accurate quantification of rel
 Her reasoning was that behaviors which activate skeletal muscles should lead to adaption such as hypertrophy and fiber type switching.
 In particular, Michele was interested in relating observed copulation rates to adaptations in the retractor penis magnus.
 During her presentation I noticed large amounts of muscle damage (primarily invaded muscle fibers) and asked if she had quantified it.
-This lead to a collaboration between her, myself, and [Dr. Ariel Kahl](http://people.virginia.edu/~afk7df/Home.html) (my amazing wife).
+This lead to a collaboration between her, myself, and [Dr. Ariel Kahrl](https://arielkahrl.weebly.com/) (my amazing wife).
 We found that RPM damage was significantly correlated to observed copulation rate.
 This work is being presented at the Society for Integrative and Comparative Biology annual meeting in 2018, with our sights set on a publication soon after. 
 

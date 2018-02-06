@@ -3,8 +3,8 @@ layout: page
 title: Publications & CV
 ---
 
-<p class="message">
-  Here is my full <a href="/pdfs/KSM_CV.pdf">Curriculum Vitae</a>
+<p class="message" style="text-align:center">
+  <font size="+2">Here is my full <a href="/pdfs/KSM_CV.pdf">Curriculum Vitae</a></font>
 </p>
 
 ### Publications
@@ -24,7 +24,7 @@ title: Publications & CV
 -  *AM Guendel*, ***KS Martin***, J Cutts, PL Foley, AM Bailey, F Mac Gabhann, TR Cardinal, SM Peirce. [Murine Spinotrapezius Model to Assess the Impact of Arteriolar Ligation on Microvascular Function and Remodeling.](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3622090/) Journal of Visualized Experiments. March 2013
 - M Zhang, M Huang, C Le, PB Zanzonico, F Claus, KS Kolbert, **KS Martin**, CC Ling, JA Koutcher, JL Humm.  [Accuracy and reproducibility of tumor positioning during prolonged and multimodality animal imaging studies.](http://iopscience.iop.org/article/10.1088/0031-9155/53/20/021/meta)	 Physics in Medicine and Biology. October 2008
 
-<p class="message">
-<a href="http://orcid.org/0000-0002-6161-9611">Orcid ID</a><br>
-<a href="https://scholar.google.se/citations?user=4rJ1zHgAAAAJ&hl=en&oi=sra">Google Scholar</a>
+<p class="message" style="text-align:center">
+<font size="+2"><a href="http://orcid.org/0000-0002-6161-9611">Orcid ID</a><br>
+<a href="https://scholar.google.se/citations?user=4rJ1zHgAAAAJ&hl=en&oi=sra">Google Scholar</a></font>
 </p>

@@ -25,9 +25,9 @@ When I performed macrophage manipulation experiments in the TA laceration model 
 <p style="float: right;"><img class="margined" src="/images/FDB_capillary_pericyte_mac2.png" width="180px" height="627px" ></p>
 
 During muscle regeneration, nerves and blood vessels undergo repair and remodeling.
-While the extend of regeneration is dependent on the type of injury (as is the case with the muscle fibers), 
+While the extent of regeneration is dependent on the type of injury (as is the case with the muscle fibers), 
 blood vessels and nerves are vital for functional muscle recovery.
-In addition to investigating skeletal muscle regeneration, my current work explores vascular and nerve regeneration.
+In addition to investigating skeletal muscle regeneration, my previous work explored vascular and nerve regeneration.
 Dr. George Christ has developed tissue engineered constructs to repair muscle defects following volumetric muscle loss.
 His lab utilizes porcine bladder scaffolds seeded with muscle progenitor cells to enhance recovery following these injury.
 One of my projects is to investigate the vascular and neuronal regeneration when using these bioengineered scaffolds to treat a muscle injury.

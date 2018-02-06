@@ -7,7 +7,7 @@ subtype: Research
 ### Overview
 
 Agent-based modeling is a computational approach that simulates the emergent outcomes that arise from the unique behaviors of autonomous 
-individuals and their interactions with one another. These types of models are particularly powerful tools for representing discrete stochastic biological processes,
+individuals and their interactions with one another. This type of modelling is a powerful tool for representing discrete stochastic biological processes,
 such as cells interacting with each other and responding to environmental cues within a tissue.
 
 ### Muscle Atrophy
@@ -29,9 +29,9 @@ I also simulated fibroblasts and their secretions, pointing to a potential sourc
 
 <p style="float: right;"><img class="margined" width="370px" src="/images/ABM_inflammation_macKO.png"></p> 
 
-Muscle injury can be caused by a plethora of situations, from contusions and lacerations to hypoxia and toxins. 
-In all of these cases, the coordination of numerous cell types (muscle fibers, satellite stem cells, neutrophils, macrophages, fibroblasts, etc) both temporarily and spatially is crucial for regeneration.
-In order to study these cellular interactions, I expanded my agent-based model to include inflammation and recovery following injury. 
+Muscle injury is caused by a plethora of situations, from contusions and lacerations to hypoxia and toxins. 
+In all of these cases, healthy muscle recovery requires temporal and spacial coordination of numerous cell types (muscle fibers, satellite stem cells, neutrophils, macrophages, fibroblasts, etc).
+In order to study these cellular interactions, I expanded my agent-based model to include inflammation and regeneration following injury. 
 In the video of my muscle injury model (above), you can see the onset of an injury (muscle damage is indicated in blue) followed by inflammation and the initiation of regeneration. 
 I used a genetic algorithm to tune the behaviors of neutrophils, M1 and M2 macrophages during muscle injury to emulate *in vivo* data.
 Once tuned, simulations of macrophage knockdown following injury (below) showed impaired muscle recovery and prolonged necrotic tissue, consistent with numerous published studies.

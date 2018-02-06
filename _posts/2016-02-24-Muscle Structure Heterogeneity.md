@@ -25,7 +25,7 @@ We were also able to find sarcomere differences between healthy and *mdx* mice, 
 <p style="float: left;"><img class="margined" src="/images/diaphragm_3.png" width="400px"></p> 
 Catherine has taken this study even further by including 1) multiple age groups and 2) expanding the muscle parameters measured to investigate fiber branching, amount of interstitial space, muscle fiber cross-sectional area, and macrophage counts. 
 Together, we have found regions of the diaphragm differ with respect to common *mdx* disease progression markers, like centrally located nuclei or macrophage counts.
-We are going to be submitting our work the Journal of Applied Physiology in 2016.
+This work was published in PloS one (see publications page for details).
 
 <div style="clear:left">
 

@@ -5,7 +5,7 @@ title: Research
 <img src="/images/ABM_atrophy.png">
 
 Skeletal muscles are dynamic organs, constantly adapting in response to stimuli.
-The same muscle could regenerate following ischemia or atrophy during chachexia. 
+The same muscle could regenerate following ischemia and then atrophy during chachexia. 
 While my previous work was focused on muscle specific adaptation and computational modeling (see projects below), my current work explores inter-organ communication.
 All organs talk to one another during physiological and pathological conditions.
 I am personally interested in muscle-driven inter-organ communication, such as during exercise.

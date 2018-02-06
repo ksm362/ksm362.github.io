@@ -15,22 +15,22 @@ In addition to being a guest lecturer in numerous classes (including human physi
 I was awarded a scholarship to co-teach a class with Dr. Shayn Peirce-Cottler during my 4th year of graduate school.
 Through this scholarship, I was given the opportunity to develop the syllabus, teach half the lectures, and create the exams for our sophomore level introduction to biomedical engineering.
 This was a transformative experience for me. 
-I received first hand experience with every fascet of teaching while having an experienced mentor to lean on.
+I received first hand experience with every facet of teaching while having an experienced mentor to lean on.
 
 ### Outreach
 
 <p style="float: right;"><img class="margined" src="/images/Kyle_teaching.jpg" width="310px" ></p>
-In addition to teaching undergraduate and graduate classes, I have also have the privilage to participate in many outreach programs.
+In addition to teaching undergraduate and graduate classes, I had the privilege to participate in many outreach programs.
 Every year, the BME department at UVa gives tours to local students (3rd - 6th grade). 
 Each participating lab teaches the students about their research.
-We also answer questions about college. 
-In the picture to the right, I showed the students how cell culturing works.
-We also isolated our cheek cells and looked at them under a miscroscope.
+We also answer questions about science and college in general. 
+In the picture to the right, I demonstrated the basics of cell culturing.
+We also isolated our cheek cells and looked at them under a microscope.
 
 
 From 2014 to 2015 I volunteered as a mentor for kids K through 12.
 This was a weekly commitment, where students could ask for homework help on any subject they were struggling with.
-I enjoyed teaching these kids about science, and I was eager to share stories about my career/life choices.
+I enjoyed teaching these kids about science and I was eager to share stories about my career/life choices.
 
 ### Student Mentoring
 

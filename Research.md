@@ -9,9 +9,10 @@ The same muscle could regenerate following ischemia and then atrophy during chac
 While my previous work was focused on muscle specific adaptation and computational modeling (see projects below), my current work explores inter-organ communication.
 All organs talk to one another during physiological and pathological conditions.
 I am personally interested in muscle-driven inter-organ communication, such as during exercise.
+However, a new project I have started in Dr. Jorge Ruas's lab is focused on adipose to nerve communication.
 To that end I have started working with a microfluidic platform to understand organ crosstalk.
 I am also blessed to have the opportunity to collaborate with numerous peers and faculty. 
-Please check out my projects and collaborations listed below. 
+Please check out my past and current projects listed below. 
 
 Projects
 =======

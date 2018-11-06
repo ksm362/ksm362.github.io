@@ -17,6 +17,6 @@ I went there for a short course on image based biomedical modeling and we were g
 My largest hobby is swing dancing.
 I have been dancing since 2010 and I love taking lessons, especially on lindy hop, charleston, balboa, and blues.
 While living in Virginia I helped Charlottesville's swing dance organization. 
-We hosted weekly dance classes and social dancing. 
-I often taught the classes as well as DJed the dance.
+When I moved to Stockholm, I also got involved in the local dance scene. 
+I often teach classes as well as DJ social dance.
 I have also helped with organizing workshop weekends where we hire bands and instructors.

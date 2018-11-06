@@ -7,7 +7,6 @@ title: Publications
   <font size="+2">Here is my full <a href="/pdfs/KSM_CV.pdf">Curriculum Vitae</a></font>
 </p>
 
-### Publications
 - KM Virgilio, **KS Martin**, SM Peirce, SS Blemker.[Agent-based model illustrates the role of the micro-environment in regeneration in healthy and mdx skeletal muscle.](https://www.physiology.org/doi/abs/10.1152/japplphysiol.00379.2018) Journal of Applied Physiology, August 2018
 - JA Call, J Donet, **KS Martin**, AK Sharma, X Chen, J Zhang, J Cai, CA Galarreta, M Okutsu, Z Du, VA Lira, M Zhang, B Mehrad, BH Annex, AL Klibanov, RP Bowler, VE Laubach, SM Peirce, Z Yan. [Muscle-derived extracellular superoxide dismutase inhibits endothelial activation and protects against multiple organ dysfunction syndrome in mice.](http://www.sciencedirect.com/science/article/pii/S0891584917307827) Free Radic Biol Med, October 2017
 - CC Henry, **KS Martin**, BB Ward, GG Handsfield, SM Peirce, SS Blemker. [Spatial and age-related changes in the microstructure of dystrophic and healthy diaphragms.](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0183853) PloS one, September 2017

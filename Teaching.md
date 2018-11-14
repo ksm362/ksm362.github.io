@@ -7,9 +7,9 @@ This includes lecturing an undergraduate class, mentoring a student, or teaching
 While I was at the University of Virginia, I took many opportunities to improve my teaching.
 My favorite experience was participating in an university wide teaching program called [Tomorrow's Professors Today](http://cte.virginia.edu/programs/tomorrows-professor-today/).
 This program offered seminars on pedagogy and learning styles as well as introduced me to numerous educators at UVa and abroad.
-I was also able to present a poster at the  [American Society of Engineering Education](https://www.asee.org/) 2014 annual meeting.
+I was also able to present a poster at the [American Society of Engineering Education's](https://www.asee.org/) annual meeting in 2014.
 
-### Classroom Teaching Experience
+### Classroom Experience
 
 In addition to being a guest lecturer in numerous classes (including human physiology, systems bioengineering, computational principles of biomechanical engineering and motion biomechanics),
 I was awarded a scholarship to co-teach a class with Dr. Shayn Peirce-Cottler during my 4th year of graduate school.

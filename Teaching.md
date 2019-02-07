@@ -20,12 +20,11 @@ I received first hand experience with every facet of teaching while having an ex
 ### Outreach
 
 <p style="float: right;"><img class="margined" src="/images/Kyle_teaching.jpg" width="310px" ></p>
-In addition to teaching undergraduate and graduate classes, I had the privilege to participate in many outreach programs.
+I had the privilege to participate in numerous outreach programs.
 Every year, the BME department at UVa gives tours to local students (3rd - 6th grade). 
-Each participating lab teaches the students about their research.
+Each participating lab teaches the students about their research through a demonstration or hands on experiment.
 We also answer questions about science and college in general. 
-In the picture to the right, I demonstrated the basics of cell culturing.
-We also isolated our cheek cells and looked at them under a microscope.
+In the picture to the right, I demonstrated the basics of cell culturing before we collected cheek cells to look at under a microscope.
 
 
 From 2014 to 2015 I volunteered as a mentor for kids K through 12.
@@ -37,7 +36,7 @@ I enjoyed teaching these kids about science and I was eager to share stories abo
 I have mentored numerous outstanding undergraduates over the years. 
 Below is a list of the students and the projects I assisted them with.
 
-
+- Madeleine McDonald - Reproducibility in creating skeletal muscle constructs
 - Katherine Crump - Modelling muscle atrophy during space flight
 - Madeleine McDonald - Reproducibility in creating skeletal muscle constructs
 - Catherine Henry - Non-uniform sarcomere lengths in the mouse diaphragm

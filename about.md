@@ -8,7 +8,7 @@ subtype: About
 
 
 Outside of my scientific interests, I pursue numerous hobbies.
-I enjoy playing board games, cooking, gardening, hiking and many other outdoor activities.
+I enjoy playing board games, cooking, playing guitar, hiking and other outdoor activities.
 The picture above is from a multiple day hike along the Höga Kusten Trail with my wife. 
 
 One of my largest hobby is dancing.

@@ -4,8 +4,8 @@ title: Teaching
 ---
 I love teaching.
 This includes lecturing an undergraduate class, mentoring a student, or teaching a local dance class.
-While I was at the University of Virginia, I took many opportunities to improve my teaching.
-My favorite experience was participating in an university wide teaching program called [Tomorrow's Professors Today](http://cte.virginia.edu/programs/tomorrows-professor-today/).
+While at the University of Virginia, I took many opportunities to improve my teaching.
+My favorite experience was participating in a university wide teaching program called [Tomorrow's Professors Today](http://cte.virginia.edu/programs/tomorrows-professor-today/).
 This program offered seminars on pedagogy and learning styles as well as introduced me to numerous educators at UVa and abroad.
 I was also able to present a poster at the [American Society of Engineering Education's](https://www.asee.org/) annual meeting in 2014.
 

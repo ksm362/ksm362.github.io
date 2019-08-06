@@ -16,8 +16,8 @@ such as cells interacting with each other and responding to environmental cues w
 <br>
 Disuse-induced mucle atrophy is a common medical complication that can result from prolonged bedrest or inactivity. I constructed an agent-based model to study
 muscle specific differences in susceptibility to disuse. The model, which is shown in the movie above, is a muscle fascicle undergoing [disuse-induced](https://simtk.org/home/muscle_abm) atrophy. 
-After parameterizing the model to rat studies, I used this model to simulate and compare atrophy rates across limb muscles in the rat (such as the forelimb and hindlimb muscles in the graph below). 
-I also simulated fibroblasts and their secretions, pointing to a potential source of TNF-alpha that can enhance the rate of atrophy during disuse.
+After parameterizing the model to rat studies, I simulated atrophy rates across limb muscles in the rat (such as the forelimb and hindlimb muscles in the graph below). 
+I also simulated fibroblasts and their secretions, pointing to a potential source of TNF-alpha that can alter the rate of atrophy during disuse.
 
 <p><img src="/images/ABM_atrophy_flexors.png"></p> 
 
@@ -29,8 +29,8 @@ I also simulated fibroblasts and their secretions, pointing to a potential sourc
 
 <p style="float: right;"><img class="margined" width="340px" src="/images/ABM_inflammation_macKO.png"></p> 
 
-Muscle injury is caused by a plethora of situations, from contusions and lacerations to hypoxia and toxins. 
-In all of these cases, healthy muscle recovery requires temporal and spacial coordination of numerous cell types (muscle fibers, satellite stem cells, neutrophils, macrophages, fibroblasts, etc).
+Muscles can be injured in many different ways, from contusions and lacerations to hypoxia and toxins. 
+In all of these cases, healthy muscle recovery requires the temporal and spacial coordination of numerous cell types (muscle fibers, satellite stem cells, neutrophils, macrophages, fibroblasts, etc).
 In order to study these cellular interactions, I expanded my agent-based model to include inflammation and regeneration following injury. 
 In the video of my muscle injury model (above), you can see the onset of an injury (damaged muscle turns blue) followed by inflammation and the initiation of regeneration. 
 I used a genetic algorithm to tune the behaviors of neutrophils, M1 and M2 macrophages during muscle injury to emulate *in vivo* data.

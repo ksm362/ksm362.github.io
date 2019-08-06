@@ -5,21 +5,13 @@ subtype: Research
 ---
 
 ### Overview
-
-Organs constantly communicate to one another.
-For instance, exercised muscles release signals that aid in reducing body fat and insulin resistance while improving cardiovascular function. 
-These organs, in turn, secrete more systemically active signaling molecules.
-In order to isolate and understand the relationship between the organs, I have started working with a microfluidic device in Dr. Jorge Ruas's lab.
-
-
-### Adipocyte-driven peripheral nerve growth
 <p><img src="/images/microfluidic_flowchart.png" width="700px"></p> 
 In our bodies, adipose tissue is highly dynamic.
 It is a well-known energy storage organ that also communicates to the entire body via secreted factors (adipokines).
 White adipose tissue is innervated by both sensory and sympathetic nerves.
 These nerves influence energy storage and utilization.
-Several studies have suggested numerous adipokines can influence neurogenesis (neurite growth).
-I believe that locally secreted neuropeptides (from sensory neurons), can modulate adipokine production.
+Several studies have suggested some adipokines can influence neurogenesis (nerve growth).
+I believe locally secreted neuropeptides (from sensory neurons) can modulate adipokine production.
 I am exploring this local communication system using microfluidic devices and traditional cell culturing.
-Using the experimental method outlined above, I am investigating which factors contribute the most to nerve growth and synaptogenesis.
+Using the experimental method outlined in the picture above, I am investigating which factors contribute the most to nerve growth and synaptogenesis.
 This work will also be expanded to look at altered physiological conditions (disease, exercise, obesity, etc).

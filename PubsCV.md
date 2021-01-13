@@ -10,7 +10,7 @@ title: Publications
   
 </p>
 
-- KM Virgilio, BK Jones, EY Miller, E Ghajar-Rahimi, **KS Martin**, SM Peirce, SS Blemker.[Computational models provide insight into in vivo studies and reveal the complex role of fibrosis in mdx muscle regeneration](https://link.springer.com/article/10.1007/s10439-020-02566-1) Annals of Biomedical Engineering, August 2020
+- KM Virgilio, BK Jones, EY Miller, E Ghajar-Rahimi, **KS Martin**, SM Peirce, SS Blemker.[Computational models provide insight into in vivo studies and reveal the complex role of fibrosis in mdx muscle regeneration.](https://link.springer.com/article/10.1007/s10439-020-02566-1) Annals of Biomedical Engineering, August 2020
 - ***KS Martin***, *M Azzolini*, JL Ruas.[The Kynurenine Connection: How exercise shifts muscle tryptophan metabolism and affects energy homeostasis, the immune system, and the brain.](https://journals.physiology.org/doi/full/10.1152/ajpcell.00580.2019) American Journal of Physiology - Cell Physiology, May 2020
 - KM Virgilio, **KS Martin**, SM Peirce, SS Blemker.[Agent-based model illustrates the role of the micro-environment in regeneration in healthy and mdx skeletal muscle.](https://www.physiology.org/doi/abs/10.1152/japplphysiol.00379.2018) Journal of Applied Physiology, August 2018
 - JA Call, J Donet, **KS Martin**, AK Sharma, X Chen, J Zhang, J Cai, CA Galarreta, M Okutsu, Z Du, VA Lira, M Zhang, B Mehrad, BH Annex, AL Klibanov, RP Bowler, VE Laubach, SM Peirce, Z Yan. [Muscle-derived extracellular superoxide dismutase inhibits endothelial activation and protects against multiple organ dysfunction syndrome in mice.](http://www.sciencedirect.com/science/article/pii/S0891584917307827) Free Radic Biol Med, October 2017

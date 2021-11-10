@@ -14,7 +14,7 @@ In particular, Michele was interested in relating observed copulation rates to a
 During her presentation I noticed large amounts of muscle damage (primarily invaded muscle fibers) and asked if she had quantified it.
 This lead to a collaboration between her, myself, and [Dr. Ariel Kahrl](https://arielkahrl.weebly.com/) (my amazing wife).
 We found that RPM damage was significantly correlated to observed copulation rate.
-This work was presented at the Society for Integrative and Comparative Biology annual meeting in 2018, and our sights set on a publication in the near future. 
+This work was presented at the Society for Integrative and Comparative Biology annual meeting in 2018 and was accepted for [publication](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/jzo.12880) in 2021
 
 
 ### Immune modulation and muscle derived EcSOD

@@ -10,6 +10,7 @@ title: Publications
   
 </p>
 
+- **KS Martin**, AF Kahrl, B Ivanov, MA Johnson.[Use it and bruise it: copulation rates are associated with muscle inflammation across anole lizard species.](https://zslpublications.onlinelibrary.wiley.com/doi/abs/10.1111/jzo.12880) Journal of Zoology, March 2021
 - KM Virgilio, BK Jones, EY Miller, E Ghajar-Rahimi, **KS Martin**, SM Peirce, SS Blemker.[Computational models provide insight into in vivo studies and reveal the complex role of fibrosis in mdx muscle regeneration.](https://link.springer.com/article/10.1007/s10439-020-02566-1) Annals of Biomedical Engineering, August 2020
 - ***KS Martin***, *M Azzolini*, JL Ruas.[The Kynurenine Connection: How exercise shifts muscle tryptophan metabolism and affects energy homeostasis, the immune system, and the brain.](https://journals.physiology.org/doi/full/10.1152/ajpcell.00580.2019) American Journal of Physiology - Cell Physiology, May 2020
 - KM Virgilio, **KS Martin**, SM Peirce, SS Blemker.[Agent-based model illustrates the role of the micro-environment in regeneration in healthy and mdx skeletal muscle.](https://www.physiology.org/doi/abs/10.1152/japplphysiol.00379.2018) Journal of Applied Physiology, August 2018

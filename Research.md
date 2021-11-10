@@ -4,8 +4,9 @@ title: Research
 ---
 
 I have had the privilage to work with many talented people on a miscellany of topics.
-My current research in Dr. Jorge Ruas's lab is focused on adipose and sensory nerve communication.
-To that end, I have started working with a microfluidic platform to understand how these two organs communicate with one another.
+My primary work right now is focused on coordinating projects between Karolinska and Oura, a wearable biometric device company.
+In Dr. Carl Johan Sundberg's lab, I have also begun to explore exercise induced adaptations in elite atheletes.
+The lab has done some amazing work looking at transcriptomics and metabolomics in skeletal muscle, and I will be extended the work into adipose tissue.
 I am also blessed with the opportunity to collaborate with numerous peers and faculty. 
 Please check out my current and past projects listed below. 
 
